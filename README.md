@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 👩‍💻 ¡Hola! Soy Micaela 👋
 
 Soy **desarrolladora de software y analista de datos** con experiencia en **C#**, **Python**, **Power BI**, **SQL Server** y **MySQL**.  
