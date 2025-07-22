@@ -27,11 +27,17 @@
 
 ## 💼 Proyectos Destacados
 
-- 🔍 **Análisis de datos COVID-19:** Visualización y predicción de casos usando Python, Pandas y Matplotlib.  
-  [🔗 Ver repositorio](https://github.com/dominguezmicaela/ejemplo-covid)
-  
-- 🧠 **Modelo de clasificación con Scikit-Learn:** Clasificación de sentimientos en reseñas de películas.  
-  [🔗 Ver repositorio](https://github.com/dominguezmicaela/clasificacion-sentimientos)
+- 🎉 **Gestión de Salón de Fiestas**  
+  Sistema CRUD con interfaz gráfica para reservas y administración de eventos.  
+  [🔗 Ver repositorio](https://github.com/dominguezmicaela/salonDeFiestas)
+
+- 📦 **Gestor de Productos**  
+  App de control de stock con manejo de base de datos y análisis de ventas.  
+  [🔗 Ver repositorio](https://github.com/dominguezmicaela/gestor_de_productos)
+
+- 📊 **Análisis de Dataset**  
+  Proyecto de análisis exploratorio de datos con visualizaciones y limpieza completa.  
+  [🔗 Ver repositorio](https://github.com/dominguezmicaela/AnalisisDataset)
 
 ---
 
