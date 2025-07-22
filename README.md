@@ -1,74 +1,114 @@
-<img src="https://raw.githubusercontent.com/dominguezmicaela/dominguezmicaela/main/header_.png" width="100%" alt="Header personal" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dominguezmicaela/dominguezmicaela/main/header_.png" width="100%" alt="Banner personalizado" />
+</p>
 
-### ¡Hola! 👋 Soy Micaela Belen Domínguez
-
-> Desarrolladora y analista de datos.
-
-<br/>
-
-- 👩‍🎓 Estudiante y profesional en constante formación en Ingeniería Informática y Ciencias de datos e Inteligencia Artificial.
-- 🧠 Apasionada por el tratamiento de datos, desde la limpieza hasta la interpretación.
-- 📊 Dominio de herramientas como **Power BI**, **SQL Server**, **Python**, **C#** y **MySQL**.
-- ✉️ Contactame: `dominguezmicaelabelen418@gmail.com`
-- 💼 LinkedIn: [Mi perfil profesional][https://www.linkedin.com/in/micaela-belen-dominguez-180179344/]
-- 💬 Habilidades: siempre dispuesta a colaborar y aprender.
-
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
-<a href="https://github.com/TU_USUARIO?tab=followers">
-<img src="https://img.shields.io/github/followers/TU_USUARIO?label=Seguidores&style=social" alt="GitHub Badge"></a>
+<h2 align="center">¡Hola! 👋 Soy Micaela Belén Domínguez</h2>
+<h4 align="center">Desarrolladora orientada a la Ciencia de Datos — combinando curiosidad, análisis y código para transformar datos en decisiones.</h4>
 
 ---
 
-## ⚙️ Tecnologías y herramientas que utilizo actualmente
+### 🚀 Sobre mí
 
-<div>
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-</div>
+- 📊 Me apasiona el análisis de datos y la inteligencia artificial.
+- 🧹 Sé realizar EDA, limpieza y tratamiento de outliers, y análisis estadísticos.
+- 📚 Actualmente sigo formándome en ciencia de datos.
+- 🤝 Siempre dispuesta a colaborar y aprender algo nuevo.
+- 📫 **Correo:** dominguezmicaelabelen418@gmail.com
+- 🌐 **LinkedIn:** [Micaela Belén Domínguez](https://www.linkedin.com/in/micaela-belen-dominguez-180179344/)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dominguezmicaela&label=Profile%20views&color=brightgreen&style=plastic" alt="Profile views" />
+  <a href="https://github.com/dominguezmicaela?tab=followers">
+    <img src="https://img.shields.io/github/followers/dominguezmicaela?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+</p>
+
+---
+
+## 💼 Proyectos Destacados
+
+- 🔍 **Análisis de datos COVID-19:** Visualización y predicción de casos usando Python, Pandas y Matplotlib.  
+  [🔗 Ver repositorio](https://github.com/dominguezmicaela/ejemplo-covid)
+  
+- 🧠 **Modelo de clasificación con Scikit-Learn:** Clasificación de sentimientos en reseñas de películas.  
+  [🔗 Ver repositorio](https://github.com/dominguezmicaela/clasificacion-sentimientos)
+
+---
+
+## 📬 Contacto
+
+<p align="center">
+  <a href="mailto:dominguezmicaelabelen418@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/micaela-belen-dominguez-180179344/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/dominguezmicaela"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## 🧠 Habilidades Técnicas
+
+### 📈 Ciencia de Datos
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-323330?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-43B02A?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+### 🧪 Herramientas y Lenguajes
+
+<p>
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+
+### 🖥️ Sistemas Operativos
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
+---
+
+## 🛠️ Herramientas de Desarrollo
+
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 🌐 Idiomas
+
+| Idioma      | Nivel     | Certificación  |
+|-------------|-----------|----------------|
+| Inglés      | B1        | Intermedio     |
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dracula" width="410"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dracula" width="350"/>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominguezmicaela&layout=compact&theme=radical" />
 </p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dominguezmicaela&show_icons=true&theme=radical" />
+</p>
+
+<br><br><br><br><br>
 
 ---
 
-## 🎯 Áreas de Enfoque
+## 📄 Licencia
 
-- 🔍 Exploratory Data Analysis (EDA)
-- 🧹 Limpieza de datos y tratamiento de **outliers**
-- 📈 Visualización interactiva con **Power BI** y **Python**
-- 📐 Análisis estadístico aplicado a negocio
-- 🤖 Fundamentos de **Machine Learning**
-- 🧠 Interés creciente en **Inteligencia Artificial** y procesamiento de datos a gran escala
+Este repositorio se distribuye bajo la Licencia MIT.  
+¡Gracias por visitar mi perfil!
 
----
-
-## 🖼️ GIF sugerido para desarrollo
-
-![dev-gif](https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif)
-
----
-
-<p align="center">
- <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
-</p>
-
-<p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=radical&row=1&column=7" />
- </a>
-</p>
-
-[linkedin]: https://www.linkedin.com/in/TU_LINKEDIN
