@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dominguezmicaela/dominguezmicaela/main/header_.png" width="100%" alt="Banner personalizado" />
+<img src="https://raw.githubusercontent.com/dominguezmicaela/dominguezmicaela/main/header_.png" width="100%" alt="Banner personalizado" />
+
 </p>
 
 <h2 align="center">¡Hola! 👋 Soy Micaela Belén Domínguez</h2>
