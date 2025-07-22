@@ -114,8 +114,12 @@
 
 ---
 
-## 📄 Licencia
+<p align="center">
+  <b>✨ Gracias por visitar mi perfil ✨</b><br>
+</p>
 
-Este repositorio se distribuye bajo la Licencia MIT.  
-¡Gracias por visitar mi perfil!
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJ3a21vdzBlazNuOXU3dGdzZTZyYjlhdWt0M3l2M2lpcXM4Y3psbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aRZ4vTsHnyW6A/giphy.gif" width="80%" height="150px" style="object-fit: cover; border-radius: 12px;" alt="Estrellas animadas de despedida"/>
+</p>
