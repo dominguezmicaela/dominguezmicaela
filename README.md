@@ -2,15 +2,15 @@
 
 ### ¡Hola! 👋 Soy Micaela Belen Domínguez
 
-> Desarrolladora enfocada en **Ciencia de Datos**, **Análisis Estadístico** e **Inteligencia Artificial**, con experiencia en backend y visualización de datos.
+> Desarrolladora y analista de datos.
 
 <br/>
 
-- 👩‍🎓 Estudiante y profesional en constante formación en áreas de **análisis de datos** y **machine learning**.
+- 👩‍🎓 Estudiante y profesional en constante formación en Ingeniería Informática y Ciencias de datos e Inteligencia Artificial.
 - 🧠 Apasionada por el tratamiento de datos, desde la limpieza hasta la interpretación.
 - 📊 Dominio de herramientas como **Power BI**, **SQL Server**, **Python**, **C#** y **MySQL**.
-- ✉️ Contactame: `TU_EMAIL`
-- 💼 LinkedIn: [Mi perfil profesional][linkedin]
+- ✉️ Contactame: `dominguezmicaelabelen418@gmail.com`
+- 💼 LinkedIn: [Mi perfil profesional][https://www.linkedin.com/in/micaela-belen-dominguez-180179344/]
 - 💬 Habilidades: siempre dispuesta a colaborar y aprender.
 
 <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
