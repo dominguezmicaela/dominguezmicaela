@@ -11,11 +11,11 @@
 ### 🚀 Sobre mí
 
 - 📊 Me apasiona el análisis de datos y la inteligencia artificial.
-- 🧹 Sé realizar EDA, limpieza y tratamiento de outliers, y análisis estadísticos.
+- 🧹 Sé realizar EDA, limpieza y tratamiento de outliers, análisis estadísticos y predictorios.
 - 📚 Actualmente sigo formándome en ciencia de datos.
 - 🤝 Siempre dispuesta a colaborar y aprender algo nuevo.
-- 📫 **Correo:** dominguezmicaelabelen418@gmail.com
-- 🌐 **LinkedIn:** [Micaela Belén Domínguez](https://www.linkedin.com/in/micaela-belen-dominguez-180179344/)
+- 📫 **Correo:** dominguezmicaelabelen35@gmail.com
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dominguezmicaela&label=Profile%20views&color=brightgreen&style=plastic" alt="Profile views" />
@@ -29,7 +29,7 @@
 ## 💼 Proyectos Destacados
 
 - 🎉 **Gestión de Salón de Fiestas**  
-  Sistema CRUD con interfaz gráfica para reservas y administración de eventos.  
+  Sistema CRUD para reservas y administración de eventos.  
   [🔗 Ver repositorio](https://github.com/dominguezmicaela/salonDeFiestas)
 
 - 📦 **Gestor de Productos**  
@@ -37,7 +37,7 @@
   [🔗 Ver repositorio](https://github.com/dominguezmicaela/gestor_de_productos)
 
 - 📊 **Análisis de Dataset**  
-  Proyecto de análisis exploratorio de datos con visualizaciones y limpieza completa.  
+  Proyecto de análisis exploratorio de datos con visualizaciones y aplicacion de algoritmos.
   [🔗 Ver repositorio](https://github.com/dominguezmicaela/AnalisisDataset)
 
 ---
