@@ -29,7 +29,7 @@
 ## 💼 Proyectos Destacados
 
 - 🎉 **Gestión de Salón de Fiestas**  
-  Sistema CRUD para reservas y administración de eventos.  
+  Sistema para reservas y administración de eventos.  
   [🔗 Ver repositorio](https://github.com/dominguezmicaela/salonDeFiestas)
 
 - 📦 **Gestor de Productos**  
