@@ -107,8 +107,7 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominguezmicaela&layout=compact&theme=radical" />
 </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dominguezmicaela&show_icons=true&theme=radical" />
-</p>
+
 
 <br><br><br><br><br>
 
