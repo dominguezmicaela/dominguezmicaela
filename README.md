@@ -3,7 +3,7 @@
 
 </p>
 
-<h2 align="center">¡Hola! 👋 Soy Micaela Belén Domínguez</h2>
+
 <h4 align="center">Desarrolladora orientada a la Ciencia de Datos — combinando curiosidad, análisis y código para transformar datos en decisiones.</h4>
 
 ---
