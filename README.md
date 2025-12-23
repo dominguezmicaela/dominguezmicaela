@@ -51,11 +51,24 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominguezmicaela&layout=compact&theme=radical" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <b>🚀 GitHub Stats</b><br><br>
+      <img src="https://stats.saviru.me/api?username=dominguezmicaela&show_icons=true&hide_border=true&theme=watchdog_gradient45" height="150" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <b>🔥 Current Streak</b><br><br>
+      <img src="https://saviru-githubstreak.vercel.app?user=dominguezmicaela&theme=watchdog-gradient&hide_border=true" height="150" alt="GitHub Streak" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <b>💡 Top Languages</b><br><br>
+      <img src="https://stats.saviru.me/api/top-langs?username=dominguezmicaela&layout=compact&hide_title=true&hide_border=true&theme=watchdog_gradient45" height="150" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 ---
 
