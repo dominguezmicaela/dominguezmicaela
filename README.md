@@ -1,15 +1,17 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=200&section=header&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Ingeniería+en+Informática;Data+Science+%26+IA+Specialist;Deep+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Computer+Engineering;Data+Science+%26+IA;" alt="Typing SVG" />
   <p>Turning data into intelligence 🚀 | Building robust software ⚡</p>
 </div>
 
 ---
-
 ### 📖 About Me
-¡Hola! 👋 Soy **Micaela**, estudiante de **Ingeniería en Informática**. Mi pasión es crear soluciones donde el software de alto rendimiento se encuentra con el análisis predictivo.
-- 🛠️ Actualmente desarrollando **Huellitas E-commerce** (.NET N-Tier Architecture).
-- 🧠 Entrenando modelos de **Deep Learning** con TensorFlow y PyTorch.
+
+Hi! I'm Micaela, but everyone calls me **Luna** 🌙.
+I'm 27 years old and I'm an Computer Engineering student at *Universidad Nacional Arturo Jauretche*. I'm passionate about bridge the gap between robust software development and intelligent data analysis. Currently, I'm focusing on building full-stack applications while deepening my knowledge in Machine Learning and AI.
 
 ---
 
@@ -38,16 +40,20 @@
 
 ---
 
-### 👾 My Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dominguezmicaela/dominguezmicaela/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="100%" />
-</p>
+### 💼 Featured Projects
 
+- **[🐾 Huellitas E-commerce](https://github.com/dominguezmicaela/petshopHuellitas)** *Comprehensive inventory and sales management system built with N-tier architecture.*
+  
+- ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+- **Core:** Developed business logic for sales and centralized stock control tailored for a Pet Shop environment.
+- **[View Live Demo](https://dominguezmicaela.github.io/petshopHuellitas/)**
 ---
 
-### 💼 Featured Projects
-- **🐾 Huellitas E-commerce:** Sistema integral de gestión y ventas.
-  - *Tech:* .NET, PostgreSQL, SOLID Principles.
+### 🌐 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Inglés-Intermedio%20(B1)-BD93F9?style=for-the-badge&logo=googletranslate&logoColor=white" />
+</p>
 
 ---
 
@@ -72,6 +78,12 @@
 
 ---
 
+### 👾 My Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dominguezmicaela/dominguezmicaela/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="100%" />
+</p
+---
+
 ### 📬 Connect with me
 <p align="center">
 <a href="https://www.linkedin.com/in/micaela-belen-dominguez-994389385/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -81,5 +93,5 @@
 <div align="center">
 
   <br><br>
-  <b>✨ Gracias por visitar mi perfil ✨</b>
+  <b>✨Thanks for stopping by! Let's build something amazing together. ✨</b>
 </div>
