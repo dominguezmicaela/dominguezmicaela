@@ -28,19 +28,7 @@
 
 ## 💼 Proyectos Destacados
 
-- 🎉 **Gestión de Salón de Fiestas**  
-  Sistema para reservas y administración de eventos.  
-  [🔗 Ver repositorio](https://github.com/dominguezmicaela/salonDeFiestas)
 
-- 📦 **Gestor de Productos**  
-  App de control de stock con manejo de base de datos y análisis de ventas.  
-  [🔗 Ver repositorio](https://github.com/dominguezmicaela/gestor_de_productos)
-
-- 📊 **Análisis de Dataset**  
-  Proyecto de análisis exploratorio de datos con visualizaciones y aplicacion de algoritmos.
-  [🔗 Ver repositorio](https://github.com/dominguezmicaela/AnalisisDataset)
-
----
 
 ## 📬 Contacto
 www.linkedin.com/in/micaela-belen-dominguez-994389385/
