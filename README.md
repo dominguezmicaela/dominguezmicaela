@@ -1,106 +1,75 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=code&color=7b2cb7&height=150&section=header&text=Micaela%20Belen%20Dominguez&fontSize=40&animation=fadeIn&theme=dracula" width="100%" alt="Banner" />
-</p>>
+  <img src="https://raw.githubusercontent.com/dominguezmicaela/dominguezmicaela/main/header_.png" width="100%" alt="Banner personalizado" />
+</p>
 
-<div align="center">
-  <h3>Engineering Student | Data Science & AI </h3>
-</div>
-
----
-
-
-
+<h1 align="center"> I'm Micaela Belén Dominguez</h1>
+<p align="center">
+  <b>Ingeniería en Informática | Ciencia de Datos e Inteligencia Artificial</b><br>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dominguezmicaela&label=Profile%20views&color=brightgreen&style=plastic" alt="Profile views" />
-  <a href="https://github.com/dominguezmicaela?tab=followers">
-    <img src="https://img.shields.io/github/followers/dominguezmicaela?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
 </p>
 
 ---
 
-## 💼 Proyectos Destacados
-
-
-
-## 📬 Contacto
- **Correo:** dominguezmicaelabelen35@gmail.com
-<p align="center">
-  <a href="mailto:dominguezmicaelabelen418@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/micaela-belen-dominguez-994389385/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  
-</p>
+## 🚀 Sobre mí
+Estudiante de **Ingeniería en Informática** con especialización en **Data Science & IA**. Mi enfoque combina la arquitectura de software escalable con el poder del Deep Learning para transformar datos en soluciones inteligentes. Actualmente potenciando el ecosistema .NET con análisis predictivo.
 
 ---
 
-## 🧠 Habilidades Técnicas
+## 🛠️ Stack Tecnológico
 
-### 📈 Ciencia de Datos
-
+### 🧠 AI & Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-323330?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-43B02A?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-### 🧪 Herramientas y Lenguajes
-
+### 💻 Software Engineering
 <p>
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+### 📊 Business Intelligence & Ops
+<p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-</p>
-
-### 🖥️ Sistemas Operativos
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</p>
-
----
-
-## 🛠️ Herramientas de Desarrollo
-
-<p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-## 🌐 Idiomas
+## 💼 Proyectos en Foco
 
-| Idioma      | Nivel     | Certificación  |
-|-------------|-----------|----------------|
-| Inglés      | B1        | Intermedio     |
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominguezmicaela&layout=compact&theme=radical" />
-</p>
-
-
-<br><br><br><br><br>
+### 🐾 Huellitas E-commerce
+*Desarrollo Fullstack con foco en arquitectura relacional y gestión de inventario.*
+- **Backend:** C# / .NET con arquitectura en capas y principios SOLID.
+- **Database:** PostgreSQL (Neon) con modelado DER normalizado.
 
 ---
 
+## 📊 Estadísticas
 <p align="center">
-  <b>✨ Gracias por visitar mi perfil ✨</b><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominguezmicaela&layout=compact&theme=radical" />
 </p>
 
+---
+
+## 📬 Contacto
+<p align="center">
+  <a href="mailto:dominguezmicaelabelen35@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/micaela-belen-dominguez-994389385/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJ3a21vdzBlazNuOXU3dGdzZTZyYjlhdWt0M3l2M2lpcXM4Y3psbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aRZ4vTsHnyW6A/giphy.gif" width="80%" height="150px" style="object-fit: cover; border-radius: 12px;" alt="Estrellas animadas de despedida"/>
+  <b>✨ ¡Gracias por visitar mi perfil! ✨</b>
 </p>
