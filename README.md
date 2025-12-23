@@ -17,41 +17,21 @@
 Estudiante de **Ingeniería en Informática** con especialización en **Data Science & IA**. Mi enfoque combina la arquitectura de software escalable con el poder del Deep Learning para transformar datos en soluciones inteligentes. Actualmente potenciando el ecosistema .NET con análisis predictivo.
 
 ---
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%" valign="top">
-      <b>🧠 AI & Data Science</b>
-      <br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Matplotlib-323330?style=for-the-badge&logo=python&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <b>💻 Software Engineering</b>
-      <br><br>
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <b>🗄️ Databases & Ops</b>
-      <br><br>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><br>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/><br>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+### 💻 Tech Stack
 
+#### 🧠 AI & Data Science
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?style=flat-square&logo=Matplotlib&logoColor=black)
+
+#### ⚙️ Software Development
+![C#](https://img.shields.io/badge/c%23-%23239120?style=flat-square&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D?style=flat-square&logo=ruby&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6?style=flat-square&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033?style=flat-square&logo=git&logoColor=white)
+
+#### 🗄️ Databases & Hosting
+![Postgres](https://img.shields.io/badge/postgres-%23316192?style=flat-square&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e?style=flat-square&logo=sqlite&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7?style=flat-square&logo=render&logoColor=white)
+
+#### 📊 Design & Management
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=flat-square&logo=Canva&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF?style=flat-square&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7?style=flat-square&logo=Trello&logoColor=white)
+
+---
 ---
 
 ## 💼 Proyectos en Foco
