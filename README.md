@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/dominguezmicaela/dominguezmicaela/main/header_.png" width="100%" alt="Banner personalizado" />
-
+  <img src="https://capsule-render.vercel.app/api?type=code&color=7b2cb7&height=150&section=header&text=Micaela%20Belen%20Dominguez&fontSize=40&animation=fadeIn&theme=dracula" width="100%" alt="Banner" />
 </p>
 
-
-<h4 align="center">Desarrolladora orientada a la Ciencia de Datos — transformando datos en decisiones estratégicas.</h4>
+<div align="center">
+  <h3>Engineering Student | Data Science & AI </h3>
+</div>
 
 ---
 
