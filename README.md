@@ -18,7 +18,7 @@ Estudiante de **Ingeniería en Informática** con especialización en **Data Sci
 
 ---
 ### 💻 Tech Stack
-<table align="center" width="100%">
+<table align="center" style="width: 100%; border-spacing: 0; border-collapse: collapse;">
   <tr>
     <td align="center" width="25%" valign="top">
       <b>🧠 AI & Data</b>
