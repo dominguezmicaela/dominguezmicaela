@@ -4,17 +4,11 @@
 </p>
 
 
-<h4 align="center">Desarrolladora orientada a la Ciencia de Datos — combinando curiosidad, análisis y código para transformar datos en decisiones.</h4>
+<h4 align="center">Desarrolladora orientada a la Ciencia de Datos — transformando datos en decisiones estratégicas.</h4>
 
 ---
 
-### 🚀 Sobre mí
 
-- 📊 Me apasiona el análisis de datos y la inteligencia artificial.
-- 🧹 Sé realizar EDA, limpieza y tratamiento de outliers, análisis estadísticos y predictorios.
-- 📚 Actualmente sigo formándome en ciencia de datos.
-- 🤝 Siempre dispuesta a colaborar y aprender algo nuevo.
-- 📫 **Correo:** dominguezmicaelabelen35@gmail.com
 
 
 <p align="center">
@@ -31,7 +25,7 @@
 
 
 ## 📬 Contacto
-www.linkedin.com/in/micaela-belen-dominguez-994389385/
+ **Correo:** dominguezmicaelabelen35@gmail.com
 <p align="center">
   <a href="mailto:dominguezmicaelabelen418@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/micaela-belen-dominguez-994389385/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
