@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=code&color=7b2cb7&height=150&section=header&text=Micaela%20Belen%20Dominguez&fontSize=40&animation=fadeIn&theme=dracula" width="100%" alt="Banner" />
-</p>
+</p>>
 
 <div align="center">
   <h3>Engineering Student | Data Science & AI </h3>
