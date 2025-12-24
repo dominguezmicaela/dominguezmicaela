@@ -91,6 +91,9 @@ I'm 27 years old and I'm an Computer Engineering student at *Universidad Naciona
 </p>
 
 <div align="center">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dominguezmicaela&label=Profile%20views&color=brightgreen&style=plastic" alt="Profile views" />
+</div>
 
   <br><br>
   <b>✨Thanks for stopping by! Let's build something amazing together. ✨</b>
