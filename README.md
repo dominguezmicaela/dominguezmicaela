@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/dominguezmicaela/dominguezmicaela/blob/main/github-header-banner.png?raw=true" width="100%" alt="Banner Luna" />
   
-  <br><br>
+ 
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Computer+Engineering;Data+Science+%26+IA;" alt="Typing SVG" />
   <p>Turning data into intelligence 🚀 | Building robust software ⚡</p>
