@@ -86,7 +86,6 @@ I'm 27 years old and a Computer Engineering student at *Universidad Nacional Art
 ### 🌐 Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Español-Nativo-BD93F9?style=for-the-badge&logo=googletranslate&logoColor=white" />
   <img src="https://img.shields.io/badge/English-Intermediate%20(B1)-BD93F9?style=for-the-badge&logo=googletranslate&logoColor=white" />
 </p>
 
