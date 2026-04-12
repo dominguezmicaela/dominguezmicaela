@@ -6,15 +6,15 @@
 
 ---
 
-### 📖 About Me
+### About Me
 
-Hi! I'm Micaela, but everyone calls me **Luna** 🌙
+Hi! I'm Micaela, but everyone calls me **Luna** 
 
 I'm 27 years old and a Computer Engineering student at *Universidad Nacional Arturo Jauretche*. I'm passionate about bridging the gap between robust software development and intelligent data analysis. Currently focusing on full-stack applications while deepening my knowledge in Machine Learning, AI and Natural Language Processing.
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 
 -  Natural Language Processing (PLN/NLP)
 -  Machine Learning applied to text
@@ -22,7 +22,7 @@ I'm 27 years old and a Computer Engineering student at *Universidad Nacional Art
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 <table align="center" style="width: 100%; border-collapse: collapse;">
   <tr>
@@ -52,7 +52,7 @@ I'm 27 years old and a Computer Engineering student at *Universidad Nacional Art
 
 ---
 
-### 💼 Featured Projects
+### Featured Projects
 
 <table align="center" width="100%">
   <tr>
@@ -82,7 +82,7 @@ I'm 27 years old and a Computer Engineering student at *Universidad Nacional Art
 
 ---
 
-### 🌐 Languages
+### Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/English-Intermediate%20(B1)-BD93F9?style=for-the-badge&logo=googletranslate&logoColor=white" />
@@ -90,7 +90,7 @@ I'm 27 years old and a Computer Engineering student at *Universidad Nacional Art
 
 ---
 
-### 📊 GitHub Metrics & Activity
+###  GitHub Metrics & Activity
 
 <table align="center" width="100%">
   <tr>
@@ -111,7 +111,7 @@ I'm 27 years old and a Computer Engineering student at *Universidad Nacional Art
 
 ---
 
-### 👾 My Contribution Snake
+###  My Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dominguezmicaela/dominguezmicaela/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="100%" />
@@ -119,7 +119,7 @@ I'm 27 years old and a Computer Engineering student at *Universidad Nacional Art
 
 ---
 
-### 📬 Connect with me
+### Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/micaela-belen-dominguez-994389385/">
