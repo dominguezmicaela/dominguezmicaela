@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/dominguezmicaela/dominguezmicaela/blob/main/github-header-banner.png?raw=true" width="100%" alt="Banner Luna" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Computer+Engineering;Data+Science+%26+AI;Building+software+%F0%9F%9A%80" alt="Typing SVG" />
   
