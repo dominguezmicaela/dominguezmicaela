@@ -58,7 +58,7 @@ I'm 27 years old and a Computer Engineering student at *Universidad Nacional Art
   <tr>
     <td width="50%" valign="top">
       <h3>🅿️ estacionAR</h3>
-      <p>Intelligent parking space detection system using Computer Vision and YOLOv11. Microservices architecture with FastAPI, .NET Core, RabbitMQ and Docker.</p>
+      <p>Intelligent parking space detection system using Computer Vision and YOLOv11. Microservices architecture: Python + FastAPI for AI services (detection, prediction, recommendation) and .NET Core for business services (auth, reservations, notifications).</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/YOLOv11-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
