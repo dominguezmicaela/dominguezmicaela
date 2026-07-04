@@ -18,14 +18,6 @@ I'm 27 years old and a Computer Engineering student at *Universidad Nacional Art
 
 ---
 
-### Currently Learning
-
--  Natural Language Processing (PLN/NLP)
--  Machine Learning applied to text
--  Advanced Python for data science
-
----
-
 ### Tech Stack
 
 <table align="center" style="width: 100%; border-collapse: collapse;">
